@@ -1,0 +1,12 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Messaging\bin\Debug\net6.0\Itequia.Backend.Messaging.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Messaging\bin\Debug\net6.0\Itequia.Backend.Messaging.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Messaging\bin\Debug\net6.0\Itequia.Backend.Messaging.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Messaging\obj\Debug\net6.0\Itequia.Backend.Messaging.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Messaging\obj\Debug\net6.0\Itequia.Backend.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Messaging\obj\Debug\net6.0\Itequia.Backend.Messaging.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Messaging\obj\Debug\net6.0\Itequia.Backend.Messaging.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Messaging\obj\Debug\net6.0\Itequia.Backend.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Messaging\obj\Debug\net6.0\Itequia.Backend.Messaging.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Messaging\obj\Debug\net6.0\refint\Itequia.Backend.Messaging.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Messaging\obj\Debug\net6.0\Itequia.Backend.Messaging.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Messaging\obj\Debug\net6.0\ref\Itequia.Backend.Messaging.dll

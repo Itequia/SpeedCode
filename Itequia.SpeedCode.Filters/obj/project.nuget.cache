@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "pngtmEP+KCQUdRbNjjKleDua24yzJ1HEGpt/eah3wTfttW61SjlV+Cxlh3zMxT2ngMgJE6RMxP+Q1Ap4Nds7ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agustin.plaza\\source\\Itequia.Arquitectura\\Backend\\Itequia.Backend\\Itequia.SpeedCode.Filters\\Itequia.SpeedCode.Filters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\system.linq.dynamic.core\\1.2.18\\system.linq.dynamic.core.1.2.18.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Itequia.SpeedCode.Security</id>
+    <version>1.0.3</version>
+    <authors>Itequia.SpeedCode.Security</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="7.0.0-preview.1.22076.8" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.IdentityModel.Tokens.Jwt" version="6.25.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Security\bin\Release\net6.0\Itequia.SpeedCode.Security.dll" target="lib\net6.0\Itequia.SpeedCode.Security.dll" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Parsers\bin\Debug\net5.0\Itequia.Backend.Parsers.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Parsers\bin\Debug\net5.0\Itequia.Backend.Parsers.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Parsers\bin\Debug\net5.0\Itequia.Backend.Parsers.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Parsers\obj\Debug\net5.0\Itequia.Backend.Parsers.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Parsers\obj\Debug\net5.0\Itequia.Backend.Parsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Parsers\obj\Debug\net5.0\Itequia.Backend.Parsers.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Parsers\obj\Debug\net5.0\Itequia.Backend.Parsers.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Parsers\obj\Debug\net5.0\Itequia.Backend.Parsers.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Parsers\obj\Debug\net5.0\Itequia.Backend.Parsers.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Parsers\obj\Debug\net5.0\refint\Itequia.Backend.Parsers.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Parsers\obj\Debug\net5.0\Itequia.Backend.Parsers.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Parsers\obj\Debug\net5.0\ref\Itequia.Backend.Parsers.dll

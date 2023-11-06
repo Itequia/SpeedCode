@@ -1,0 +1,15 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\obj\Release\net5.0\Itequia.SpeedCode.FiltersAttributes.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\obj\Release\net5.0\Itequia.SpeedCode.FiltersAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\obj\Release\net5.0\Itequia.SpeedCode.FiltersAttributes.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\obj\Release\net5.0\Itequia.SpeedCode.FiltersAttributes.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\obj\Release\net5.0\Itequia.SpeedCode.FiltersAttributes.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\bin\Release\net5.0\Itequia.SpeedCode.FiltersAttributes.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\bin\Release\net5.0\Itequia.SpeedCode.FiltersAttributes.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\bin\Release\net5.0\Itequia.SpeedCode.FiltersAttributes.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\bin\Release\net5.0\Itequia.SpeedCode.Entities.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\bin\Release\net5.0\Itequia.SpeedCode.Entities.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\obj\Release\net5.0\Itequia.SpeedCode.FiltersAttributes.csproj.CopyComplete
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\obj\Release\net5.0\Itequia.SpeedCode.FiltersAttributes.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\obj\Release\net5.0\refint\Itequia.SpeedCode.FiltersAttributes.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\obj\Release\net5.0\Itequia.SpeedCode.FiltersAttributes.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.FiltersAttributes\obj\Release\net5.0\ref\Itequia.SpeedCode.FiltersAttributes.dll

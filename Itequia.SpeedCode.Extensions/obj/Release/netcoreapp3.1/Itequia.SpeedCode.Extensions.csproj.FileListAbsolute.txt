@@ -1,0 +1,10 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Extensions\bin\Release\netcoreapp3.1\Itequia.SpeedCode.Extensions.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Extensions\bin\Release\netcoreapp3.1\Itequia.SpeedCode.Extensions.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Extensions\bin\Release\netcoreapp3.1\Itequia.SpeedCode.Extensions.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Extensions\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Extensions.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Extensions\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Extensions\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Extensions.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Extensions\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Extensions.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Extensions\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Extensions\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Extensions.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Extensions\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Extensions.pdb

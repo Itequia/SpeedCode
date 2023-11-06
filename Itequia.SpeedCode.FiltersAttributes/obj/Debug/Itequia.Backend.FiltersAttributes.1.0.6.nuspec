@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Itequia.Backend.FiltersAttributes</id>
+    <version>1.0.6</version>
+    <authors>Itequia.Backend.FiltersAttributes</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Itequia.Backend.Entities" version="1.0.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.2.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\bin\Debug\net5.0\Itequia.Backend.FiltersAttributes.dll" target="lib\net5.0\Itequia.Backend.FiltersAttributes.dll" />
+  </files>
+</package>

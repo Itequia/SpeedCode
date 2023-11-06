@@ -1,0 +1,10 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Entities\bin\Debug\netcoreapp3.1\Itequia.Backend.Entities.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Entities\bin\Debug\netcoreapp3.1\Itequia.Backend.Entities.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Entities\bin\Debug\netcoreapp3.1\Itequia.Backend.Entities.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Entities\obj\Debug\netcoreapp3.1\Itequia.Backend.Entities.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Entities\obj\Debug\netcoreapp3.1\Itequia.Backend.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Entities\obj\Debug\netcoreapp3.1\Itequia.Backend.Entities.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Entities\obj\Debug\netcoreapp3.1\Itequia.Backend.Entities.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Entities\obj\Debug\netcoreapp3.1\Itequia.Backend.Entities.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Entities\obj\Debug\netcoreapp3.1\Itequia.Backend.Entities.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Entities\obj\Debug\netcoreapp3.1\Itequia.Backend.Entities.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+l7tquv0rFOk7mEtG4fZ4C4Ac96IquwDbmhH12dfBibPZMEku421eCDCN22gRkdw+/bH+XI+KbWQk5xsVMEALg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agustin.plaza\\source\\Itequia.Arquitectura\\Backend\\Itequia.Backend\\Itequia.SpeedCode.Extensions\\Itequia.SpeedCode.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

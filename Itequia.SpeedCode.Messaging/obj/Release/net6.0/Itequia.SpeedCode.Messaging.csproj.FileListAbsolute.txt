@@ -1,0 +1,12 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Messaging\bin\Release\net6.0\Itequia.SpeedCode.Messaging.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Messaging\bin\Release\net6.0\Itequia.SpeedCode.Messaging.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Messaging\bin\Release\net6.0\Itequia.SpeedCode.Messaging.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Messaging\obj\Release\net6.0\Itequia.SpeedCode.Messaging.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Messaging\obj\Release\net6.0\Itequia.SpeedCode.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Messaging\obj\Release\net6.0\Itequia.SpeedCode.Messaging.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Messaging\obj\Release\net6.0\Itequia.SpeedCode.Messaging.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Messaging\obj\Release\net6.0\Itequia.SpeedCode.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Messaging\obj\Release\net6.0\Itequia.SpeedCode.Messaging.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Messaging\obj\Release\net6.0\refint\Itequia.SpeedCode.Messaging.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Messaging\obj\Release\net6.0\Itequia.SpeedCode.Messaging.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Messaging\obj\Release\net6.0\ref\Itequia.SpeedCode.Messaging.dll

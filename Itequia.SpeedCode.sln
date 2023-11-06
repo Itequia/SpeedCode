@@ -1,0 +1,108 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itequia.SpeedCode.Persistence", "Itequia.SpeedCode.Persistence\Itequia.SpeedCode.Persistence.csproj", "{684D76A6-1E7D-4884-87D9-80B0291619FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itequia.SpeedCode.Logger", "Itequia.SpeedCode.Logger\Itequia.SpeedCode.Logger.csproj", "{746ED8D2-7EC8-4413-A286-671490647152}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itequia.SpeedCode.Parsers", "Itequia.SpeedCode.Parsers\Itequia.SpeedCode.Parsers.csproj", "{5F9D9F02-7803-4B78-96C6-DE6AB7D02B68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itequia.SpeedCode.Entities", "Itequia.SpeedCode.Entities\Itequia.SpeedCode.Entities.csproj", "{6ECA6182-0ACA-4788-8269-D7D3C7EFF7EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itequia.SpeedCode.Extensions", "Itequia.SpeedCode.Extensions\Itequia.SpeedCode.Extensions.csproj", "{CA2F33EC-493B-47E4-8B8C-C5FC1BC6679E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itequia.SpeedCode.Filters", "Itequia.SpeedCode.Filters\Itequia.SpeedCode.Filters.csproj", "{9C5A565D-C1C2-46EC-9C65-1A37287E060C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itequia.SpeedCode.Caching", "Itequia.SpeedCode.Caching\Itequia.SpeedCode.Caching.csproj", "{F73C6092-6862-4BB1-A05F-92901DDF8B40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itequia.SpeedCode.FiltersAttributes", "Itequia.SpeedCode.FiltersAttributes\Itequia.SpeedCode.FiltersAttributes.csproj", "{C93C3EB3-5CB8-451A-ADF3-5325E8ACDFF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itequia.SpeedCode.CachingNet", "Itequia.SpeedCode.CachingNet\Itequia.SpeedCode.CachingNet.csproj", "{0905BBF0-C365-44E8-9DFF-FFFFD1B9B4A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itequia.SpeedCode.Security", "Itequia.SpeedCode.Security\Itequia.SpeedCode.Security.csproj", "{085BE613-92AB-4930-B674-5131E5905EDD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itequia.SpeedCode.Export", "Itequia.SpeedCode.Export\Itequia.SpeedCode.Export.csproj", "{0F61868F-7442-42B2-AB4E-77BCEC7CA2E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itequia.Backend.Tests", "Itequia.Backend.Tests", "{7923172F-20A0-417B-9121-4638AE45DD83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itequia.Backend.ConsoleTests", "Itequia.Backend.ConsoleTests\Itequia.Backend.ConsoleTests.csproj", "{FFF6220E-5A6C-4122-B7BE-D37A72770C7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itequia.SpeedCode.ApiGateway", "Itequia.SpeedCode.ApiGateway\Itequia.SpeedCode.ApiGateway.csproj", "{6427F952-6721-4A62-AE2E-D948B831C390}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itequia.SpeedCode.Messaging", "Itequia.SpeedCode.Messaging\Itequia.SpeedCode.Messaging.csproj", "{5F934089-B7FC-405A-940B-EAD35417774B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{684D76A6-1E7D-4884-87D9-80B0291619FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684D76A6-1E7D-4884-87D9-80B0291619FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684D76A6-1E7D-4884-87D9-80B0291619FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684D76A6-1E7D-4884-87D9-80B0291619FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746ED8D2-7EC8-4413-A286-671490647152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746ED8D2-7EC8-4413-A286-671490647152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746ED8D2-7EC8-4413-A286-671490647152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746ED8D2-7EC8-4413-A286-671490647152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F9D9F02-7803-4B78-96C6-DE6AB7D02B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9D9F02-7803-4B78-96C6-DE6AB7D02B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9D9F02-7803-4B78-96C6-DE6AB7D02B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9D9F02-7803-4B78-96C6-DE6AB7D02B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ECA6182-0ACA-4788-8269-D7D3C7EFF7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECA6182-0ACA-4788-8269-D7D3C7EFF7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECA6182-0ACA-4788-8269-D7D3C7EFF7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECA6182-0ACA-4788-8269-D7D3C7EFF7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2F33EC-493B-47E4-8B8C-C5FC1BC6679E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2F33EC-493B-47E4-8B8C-C5FC1BC6679E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2F33EC-493B-47E4-8B8C-C5FC1BC6679E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2F33EC-493B-47E4-8B8C-C5FC1BC6679E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C5A565D-C1C2-46EC-9C65-1A37287E060C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5A565D-C1C2-46EC-9C65-1A37287E060C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5A565D-C1C2-46EC-9C65-1A37287E060C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5A565D-C1C2-46EC-9C65-1A37287E060C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73C6092-6862-4BB1-A05F-92901DDF8B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73C6092-6862-4BB1-A05F-92901DDF8B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73C6092-6862-4BB1-A05F-92901DDF8B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73C6092-6862-4BB1-A05F-92901DDF8B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93C3EB3-5CB8-451A-ADF3-5325E8ACDFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93C3EB3-5CB8-451A-ADF3-5325E8ACDFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93C3EB3-5CB8-451A-ADF3-5325E8ACDFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93C3EB3-5CB8-451A-ADF3-5325E8ACDFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0905BBF0-C365-44E8-9DFF-FFFFD1B9B4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0905BBF0-C365-44E8-9DFF-FFFFD1B9B4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0905BBF0-C365-44E8-9DFF-FFFFD1B9B4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0905BBF0-C365-44E8-9DFF-FFFFD1B9B4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085BE613-92AB-4930-B674-5131E5905EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085BE613-92AB-4930-B674-5131E5905EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085BE613-92AB-4930-B674-5131E5905EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085BE613-92AB-4930-B674-5131E5905EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F61868F-7442-42B2-AB4E-77BCEC7CA2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F61868F-7442-42B2-AB4E-77BCEC7CA2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F61868F-7442-42B2-AB4E-77BCEC7CA2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F61868F-7442-42B2-AB4E-77BCEC7CA2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF6220E-5A6C-4122-B7BE-D37A72770C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF6220E-5A6C-4122-B7BE-D37A72770C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF6220E-5A6C-4122-B7BE-D37A72770C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF6220E-5A6C-4122-B7BE-D37A72770C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6427F952-6721-4A62-AE2E-D948B831C390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6427F952-6721-4A62-AE2E-D948B831C390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6427F952-6721-4A62-AE2E-D948B831C390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6427F952-6721-4A62-AE2E-D948B831C390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F934089-B7FC-405A-940B-EAD35417774B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F934089-B7FC-405A-940B-EAD35417774B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F934089-B7FC-405A-940B-EAD35417774B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F934089-B7FC-405A-940B-EAD35417774B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FFF6220E-5A6C-4122-B7BE-D37A72770C7C} = {7923172F-20A0-417B-9121-4638AE45DD83}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46A61C1-D3B0-4FB8-A4E0-749229FCEE42}
+	EndGlobalSection
+EndGlobal

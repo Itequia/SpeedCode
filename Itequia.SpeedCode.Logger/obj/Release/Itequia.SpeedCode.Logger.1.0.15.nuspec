@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Itequia.SpeedCode.Logger</id>
+    <version>1.0.15</version>
+    <authors>Itequia.SpeedCode.Logger</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Itequia.SpeedCode.Persistence" version="1.0.20" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="2.16.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Logger\bin\Release\net6.0\Itequia.SpeedCode.Logger.runtimeconfig.json" target="lib\net6.0\Itequia.SpeedCode.Logger.runtimeconfig.json" />
+    <file src="C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Logger\bin\Release\net6.0\Itequia.SpeedCode.Logger.dll" target="lib\net6.0\Itequia.SpeedCode.Logger.dll" />
+  </files>
+</package>

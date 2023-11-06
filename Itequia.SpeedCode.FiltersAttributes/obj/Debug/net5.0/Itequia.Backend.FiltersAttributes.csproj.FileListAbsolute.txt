@@ -1,0 +1,15 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\bin\Debug\net5.0\Itequia.Backend.FiltersAttributes.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\bin\Debug\net5.0\Itequia.Backend.FiltersAttributes.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\bin\Debug\net5.0\Itequia.Backend.FiltersAttributes.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\bin\Debug\net5.0\Itequia.Backend.Entities.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\bin\Debug\net5.0\Itequia.Backend.Entities.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\obj\Debug\net5.0\Itequia.Backend.FiltersAttributes.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\obj\Debug\net5.0\Itequia.Backend.FiltersAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\obj\Debug\net5.0\Itequia.Backend.FiltersAttributes.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\obj\Debug\net5.0\Itequia.Backend.FiltersAttributes.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\obj\Debug\net5.0\Itequia.Backend.FiltersAttributes.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\obj\Debug\net5.0\Itequia.Backend.FiltersAttributes.csproj.CopyComplete
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\obj\Debug\net5.0\Itequia.Backend.FiltersAttributes.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\obj\Debug\net5.0\refint\Itequia.Backend.FiltersAttributes.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\obj\Debug\net5.0\Itequia.Backend.FiltersAttributes.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.FiltersAttributes\obj\Debug\net5.0\ref\Itequia.Backend.FiltersAttributes.dll

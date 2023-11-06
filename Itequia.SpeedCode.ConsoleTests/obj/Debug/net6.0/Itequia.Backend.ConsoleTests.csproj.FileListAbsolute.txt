@@ -1,0 +1,5 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ConsoleTests\obj\Debug\net6.0\Itequia.Backend.ConsoleTests.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ConsoleTests\obj\Debug\net6.0\Itequia.Backend.ConsoleTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ConsoleTests\obj\Debug\net6.0\Itequia.Backend.ConsoleTests.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ConsoleTests\obj\Debug\net6.0\Itequia.Backend.ConsoleTests.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ConsoleTests\obj\Debug\net6.0\Itequia.Backend.ConsoleTests.csproj.CoreCompileInputs.cache

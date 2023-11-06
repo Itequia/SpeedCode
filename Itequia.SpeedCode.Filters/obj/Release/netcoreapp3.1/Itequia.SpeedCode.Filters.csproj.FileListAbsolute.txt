@@ -1,0 +1,13 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Filters\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Filters.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Filters\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Filters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Filters\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Filters.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Filters\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Filters.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Filters\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Filters.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Filters\bin\Release\netcoreapp3.1\Itequia.SpeedCode.Filters.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Filters\bin\Release\netcoreapp3.1\Itequia.SpeedCode.Filters.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Filters\bin\Release\netcoreapp3.1\Itequia.SpeedCode.Filters.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Filters\bin\Release\netcoreapp3.1\Itequia.SpeedCode.Extensions.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Filters\bin\Release\netcoreapp3.1\Itequia.SpeedCode.Extensions.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Filters\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Filters.csproj.CopyComplete
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Filters\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Filters.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Filters\obj\Release\netcoreapp3.1\Itequia.SpeedCode.Filters.pdb

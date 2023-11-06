@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Itequia.SpeedCode.Extensions</id>
+    <version>1.0.2</version>
+    <authors>Itequia.SpeedCode.Extensions</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Extensions\bin\Release\netcoreapp3.1\Itequia.SpeedCode.Extensions.dll" target="lib\netcoreapp3.1\Itequia.SpeedCode.Extensions.dll" />
+  </files>
+</package>

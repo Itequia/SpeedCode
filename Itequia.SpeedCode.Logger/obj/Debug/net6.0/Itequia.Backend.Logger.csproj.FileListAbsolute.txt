@@ -1,0 +1,14 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\bin\Debug\net6.0\Itequia.Backend.Logger.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\bin\Debug\net6.0\Itequia.Backend.Logger.runtimeconfig.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\bin\Debug\net6.0\Itequia.Backend.Logger.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\bin\Debug\net6.0\Itequia.Backend.Logger.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\obj\Debug\net6.0\Itequia.Backend.Logger.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\obj\Debug\net6.0\Itequia.Backend.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\obj\Debug\net6.0\Itequia.Backend.Logger.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\obj\Debug\net6.0\Itequia.Backend.Logger.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\obj\Debug\net6.0\Itequia.Backend.Logger.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\obj\Debug\net6.0\Itequia.Backend.Logger.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\obj\Debug\net6.0\refint\Itequia.Backend.Logger.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\obj\Debug\net6.0\Itequia.Backend.Logger.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\obj\Debug\net6.0\Itequia.Backend.Logger.genruntimeconfig.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\obj\Debug\net6.0\ref\Itequia.Backend.Logger.dll

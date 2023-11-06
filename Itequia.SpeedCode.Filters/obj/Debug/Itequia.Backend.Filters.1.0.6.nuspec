@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Itequia.Backend.Filters</id>
+    <version>1.0.6</version>
+    <authors>Itequia.Backend.Filters</authors>
+    <description>C# library in Net Core to apply multiples filters to IQueryable object.</description>
+    <copyright>Itequia SL</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Itequia.Backend.Extensions" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Linq.Dynamic.Core" version="1.2.18" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\bin\Debug\netcoreapp3.1\Itequia.Backend.Filters.dll" target="lib\netcoreapp3.1\Itequia.Backend.Filters.dll" />
+  </files>
+</package>

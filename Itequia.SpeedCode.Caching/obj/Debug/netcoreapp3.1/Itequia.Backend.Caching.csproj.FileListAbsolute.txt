@@ -1,0 +1,10 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Caching\bin\Debug\netcoreapp3.1\Itequia.Backend.Caching.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Caching\bin\Debug\netcoreapp3.1\Itequia.Backend.Caching.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Caching\bin\Debug\netcoreapp3.1\Itequia.Backend.Caching.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Caching\obj\Debug\netcoreapp3.1\Itequia.Backend.Caching.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Caching\obj\Debug\netcoreapp3.1\Itequia.Backend.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Caching\obj\Debug\netcoreapp3.1\Itequia.Backend.Caching.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Caching\obj\Debug\netcoreapp3.1\Itequia.Backend.Caching.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Caching\obj\Debug\netcoreapp3.1\Itequia.Backend.Caching.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Caching\obj\Debug\netcoreapp3.1\Itequia.Backend.Caching.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Caching\obj\Debug\netcoreapp3.1\Itequia.Backend.Caching.pdb

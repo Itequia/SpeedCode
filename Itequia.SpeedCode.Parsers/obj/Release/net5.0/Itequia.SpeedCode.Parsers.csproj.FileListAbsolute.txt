@@ -1,0 +1,12 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Parsers\bin\Release\net5.0\Itequia.SpeedCode.Parsers.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Parsers\bin\Release\net5.0\Itequia.SpeedCode.Parsers.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Parsers\bin\Release\net5.0\Itequia.SpeedCode.Parsers.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Parsers\obj\Release\net5.0\Itequia.SpeedCode.Parsers.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Parsers\obj\Release\net5.0\Itequia.SpeedCode.Parsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Parsers\obj\Release\net5.0\Itequia.SpeedCode.Parsers.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Parsers\obj\Release\net5.0\Itequia.SpeedCode.Parsers.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Parsers\obj\Release\net5.0\Itequia.SpeedCode.Parsers.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Parsers\obj\Release\net5.0\Itequia.SpeedCode.Parsers.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Parsers\obj\Release\net5.0\refint\Itequia.SpeedCode.Parsers.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Parsers\obj\Release\net5.0\Itequia.SpeedCode.Parsers.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.SpeedCode.Parsers\obj\Release\net5.0\ref\Itequia.SpeedCode.Parsers.dll

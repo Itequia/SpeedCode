@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Itequia.Backend.Logger</id>
+    <version>1.0.14</version>
+    <authors>Itequia.Backend.Logger</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Itequia.Backend.Persistence" version="1.0.8" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="2.16.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\bin\Debug\net6.0\Itequia.Backend.Logger.runtimeconfig.json" target="lib\net6.0\Itequia.Backend.Logger.runtimeconfig.json" />
+    <file src="C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Logger\bin\Debug\net6.0\Itequia.Backend.Logger.dll" target="lib\net6.0\Itequia.Backend.Logger.dll" />
+  </files>
+</package>

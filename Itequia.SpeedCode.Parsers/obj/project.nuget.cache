@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "wZEUaioDJF4zef39tt5vf3LShybhF9AxYSzJpTPqmqXH/erQyhKpRLA5Ayv3hLSzVlWZR7NSEAXnIt7Zb4Wrvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agustin.plaza\\source\\Itequia.Arquitectura\\Backend\\Itequia.Backend\\Itequia.SpeedCode.Parsers\\Itequia.SpeedCode.Parsers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\agustin.plaza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

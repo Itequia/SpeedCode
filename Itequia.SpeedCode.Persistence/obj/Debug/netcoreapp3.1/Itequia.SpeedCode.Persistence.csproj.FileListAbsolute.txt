@@ -1,0 +1,16 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\bin\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\bin\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.runtimeconfig.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\bin\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.runtimeconfig.dev.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\bin\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\bin\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\bin\Debug\netcoreapp3.1\Itequia.Backend.Entities.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\bin\Debug\netcoreapp3.1\Itequia.Backend.Entities.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\obj\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\obj\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\obj\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\obj\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\obj\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\obj\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.csproj.CopyComplete
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\obj\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\obj\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Persistence\obj\Debug\netcoreapp3.1\Itequia.SpeedCode.Persistence.genruntimeconfig.cache

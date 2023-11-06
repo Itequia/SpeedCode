@@ -1,0 +1,12 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ApiGateway\bin\Debug\net6.0\Itequia.Backend.ApiGateway.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ApiGateway\bin\Debug\net6.0\Itequia.Backend.ApiGateway.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ApiGateway\bin\Debug\net6.0\Itequia.Backend.ApiGateway.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ApiGateway\obj\Debug\net6.0\Itequia.Backend.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ApiGateway\obj\Debug\net6.0\Itequia.Backend.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ApiGateway\obj\Debug\net6.0\Itequia.Backend.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ApiGateway\obj\Debug\net6.0\Itequia.Backend.ApiGateway.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ApiGateway\obj\Debug\net6.0\Itequia.Backend.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ApiGateway\obj\Debug\net6.0\Itequia.Backend.ApiGateway.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ApiGateway\obj\Debug\net6.0\refint\Itequia.Backend.ApiGateway.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ApiGateway\obj\Debug\net6.0\Itequia.Backend.ApiGateway.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.ApiGateway\obj\Debug\net6.0\ref\Itequia.Backend.ApiGateway.dll

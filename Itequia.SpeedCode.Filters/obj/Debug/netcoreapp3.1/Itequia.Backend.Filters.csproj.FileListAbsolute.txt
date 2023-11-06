@@ -1,0 +1,13 @@
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\bin\Debug\netcoreapp3.1\Itequia.Backend.Filters.deps.json
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\bin\Debug\netcoreapp3.1\Itequia.Backend.Filters.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\bin\Debug\netcoreapp3.1\Itequia.Backend.Filters.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\bin\Debug\netcoreapp3.1\Itequia.Backend.Extensions.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\bin\Debug\netcoreapp3.1\Itequia.Backend.Extensions.pdb
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\obj\Debug\netcoreapp3.1\Itequia.Backend.Filters.csproj.AssemblyReference.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\obj\Debug\netcoreapp3.1\Itequia.Backend.Filters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\obj\Debug\netcoreapp3.1\Itequia.Backend.Filters.AssemblyInfoInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\obj\Debug\netcoreapp3.1\Itequia.Backend.Filters.AssemblyInfo.cs
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\obj\Debug\netcoreapp3.1\Itequia.Backend.Filters.csproj.CoreCompileInputs.cache
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\obj\Debug\netcoreapp3.1\Itequia.Backend.Filters.csproj.CopyComplete
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\obj\Debug\netcoreapp3.1\Itequia.Backend.Filters.dll
+C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Filters\obj\Debug\netcoreapp3.1\Itequia.Backend.Filters.pdb

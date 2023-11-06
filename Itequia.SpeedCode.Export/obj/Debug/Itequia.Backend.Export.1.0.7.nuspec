@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Itequia.Backend.Export</id>
+    <version>1.0.7</version>
+    <authors>Itequia.Backend.Export</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="ClosedXML" version="0.95.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\agustin.plaza\source\Itequia.Arquitectura\Backend\Itequia.Backend\Itequia.Backend.Export\bin\Debug\net6.0\Itequia.Backend.Export.dll" target="lib\net6.0\Itequia.Backend.Export.dll" />
+  </files>
+</package>

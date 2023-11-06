@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ocelot" Version="18.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Itequia.SpeedCode.Entities\Itequia.SpeedCode.Entities.csproj" />
+    <ProjectReference Include="..\Itequia.SpeedCode.FiltersAttributes\Itequia.SpeedCode.FiltersAttributes.csproj" />
+    <ProjectReference Include="..\Itequia.SpeedCode.Filters\Itequia.SpeedCode.Filters.csproj" />
+  </ItemGroup>
+
+</Project>
